@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Smell Verse Logo</title>
+  <desc id="desc">Purple bottle logo for Smell Verse.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f5f3ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ddd6fe" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="56" fill="url(#bg)"/>
+  <ellipse cx="256" cy="188" rx="126" ry="36" fill="#fef3c7" opacity="0.9"/>
+  <rect x="184" y="146" width="144" height="248" rx="32" fill="url(#glass)" stroke="#e9d5ff" stroke-width="8"/>
+  <rect x="210" y="94" width="92" height="88" rx="22" fill="#f5d0fe"/>
+  <rect x="220" y="70" width="72" height="44" rx="12" fill="#fef3c7"/>
+  <path d="M221 208 C256 230, 293 230, 292 208 L292 330 C292 348, 276 362, 256 362 C236 362, 220 348, 220 330 Z" fill="#7c3aed" opacity="0.2"/>
+  <path d="M198 232 C232 288, 281 288, 314 232" fill="none" stroke="#7c3aed" stroke-width="12" stroke-linecap="round"/>
+  <path d="M212 248 C240 274, 272 274, 300 248" fill="none" stroke="#f59e0b" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="332" cy="338" r="46" fill="#f59e0b" opacity="0.9"/>
+  <path d="M312 338h40M332 318v40" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <text x="256" y="436" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="52" fill="#ffffff">Smell</text>
+</svg>
